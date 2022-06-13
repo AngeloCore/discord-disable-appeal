@@ -1,6 +1,7 @@
 # TL;DR
 
 ## discord-api server: https://discord.gg/discord-api
+
 ![image](https://user-images.githubusercontent.com/62988428/150642416-0e37dbfe-7710-46d2-ba25-f2c37bd36a35.png)
 <br>
 [link](https://discord.com/channels/81384788765712384/381870553235193857/917499527127265310)
@@ -464,3 +465,5 @@ I can't belive how much problems did this guy do and everywhere tells that i am 
 
 Soo, do you really think that if someone do scams/hacks will use his main account?
 Even a baby will see that this guys is a liar...
+
+**13/06/22:** I found out that she thinks I'm him because we live in the same city, 200iq
